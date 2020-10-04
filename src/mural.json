@@ -1,0 +1,47 @@
+{
+	"p1": {
+		"width": 199,
+		"height": 237,
+		"story": ""
+	},
+	"p2": {
+		"width": 293,
+		"height": 239,
+		"story": ""
+	},
+	"p3": {
+		"width": 239,
+		"height": 314,
+		"story": ""
+	},
+	"p4": {
+		"width": 361,
+		"height": 242,
+		"story": ""
+	},
+	"p5": {
+		"width": 444,
+		"height": 244,
+		"story": ""
+	},
+	"p6": {
+		"width": 358,
+		"height": 242,
+		"story": ""
+	},
+	"p7": {
+		"width": 236,
+		"height": 155,
+		"story": ""
+	},
+	"p8": {
+		"width": 237,
+		"height": 247,
+		"story": ""
+	},
+	"p9": {
+		"width": 236,
+		"height": 171,
+		"story": ""
+	}
+}
